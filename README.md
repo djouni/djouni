@@ -6,7 +6,7 @@
 
 - 💻 Studying Computer Science at PUC Minas
 - 📚 I'm currently taking a Full Stack Javascript course at Udemy<img src="https://logosmarcas.net/wp-content/uploads/2021/11/Udemy-Logo.png" width="30" />
-- 🎲 And ... i love music and play instruments 🎸🎻🥁 and play a lot of chess online ♟(+11k matches).
+- 🎲 And I have two passions one is that I love music, and learn to play instruments is my kind of hobby!🎸🎻🥁 The other is that I play a lot of chess online ♟.
 
 ## I code with
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
