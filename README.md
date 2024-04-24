@@ -5,7 +5,7 @@
 ## About me
 
 - 💻 Studying Computer Science at PUC Minas
-- 📚 I'm currently taking a Full Stack Javascript course at Udemy<img src="https://logosmarcas.net/wp-content/uploads/2021/11/Udemy-Logo.png" width="30" />
+- 📚 I'm currently taking a Java Back-End Developer course at [DIO](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5)
 - 🎲 And I have two passions one is that I love music, and learn to play instruments is my kind of hobby!🎸🎻🥁 The other is that I play a lot of chess online ♟.
 
 ## I code with
