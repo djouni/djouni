@@ -5,7 +5,7 @@
 ## About me
 
 - 💻 Studying Computer Science at PUC Minas
-- 📚 I'm currently taking a Java Back-End Developer course at [DIO](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5)
+- 📚 I'm currently taking the AWS Cloud Practitioner Essentials course at [Amazon Skill Builder]([https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials))
 - 🎲 And I have two passions one is that I love music, and learn to play instruments is my kind of hobby!🎸🎻🥁 The other is that I play a lot of chess online ♟.
 
 ## I code with
